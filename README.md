@@ -24,3 +24,14 @@ This project aims to analyze nicotine trends using data from various sources, in
 ### Create the virtual environment (venv)
 - python -m venv venv
 - source venv/bin/activate
+
+## Usage
+- Make sure to navigate to the correct directory where the script is located first (analysis.py directory, which is scripts) 
+```sh
+cd scripts
+```
+- Then run the command below for all statistical computations and visualizations.
+```sh
+python3 analysis.py
+```
+
