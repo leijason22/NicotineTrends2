@@ -22,3 +22,5 @@ This project aims to analyze nicotine trends using data from various sources, in
 ## Setup Instructions
 
 ### Create the virtual environment (venv)
+- python -m venv venv
+- source venv/bin/activate
